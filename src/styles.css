@@ -1,0 +1,50 @@
+body {
+  font-family: sans-serif;
+margin: 0;
+padding: 0;
+}
+#navegacao-principal{
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  box-shadow: 0 2px 6px #A9A9A9
+
+}
+.element.style{
+  padding: 30px;
+  display: flex;
+  align-items: center;
+
+
+}
+#navegacao-principal img{
+  width:200px;
+
+}
+#navegacao{
+  display: flex;
+  align-items: center;
+
+}
+#navegacao a{
+  text-decoration: none;
+  margin-right:  50px;
+  color: #000000
+  
+}
+#container{
+  width: 800px;
+  margin: 0 auto;
+  padding: 5px;
+}
+h1{
+  display: flex;
+  float: left;
+  font-size: 35px;
+}
+#resumo{
+  display: flex;
+  padding: 20px;
+
+
+}

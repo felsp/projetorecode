@@ -1,2 +1,0 @@
-# projetorecode
-Created with CodeSandbox
